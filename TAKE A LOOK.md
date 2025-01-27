@@ -512,7 +512,7 @@ This project demonstrates the application of SQL skills in creating and managing
 
 ## JISHNAV PRADHOSHVAR
 
-This project showcases SQL skills essential for database management and analysis. For more content on SQL and data analysis, 
+This project showcases SQL skills essential for database management and analysis. 
 connect with me via 
 
 jishnavpradhoshvar@gmail.com
